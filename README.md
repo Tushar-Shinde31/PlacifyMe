@@ -64,19 +64,6 @@ This project can serve as:
 
 ---
 
-## 🖼️ Screenshots  
-
-> Add your own screenshots here after running locally or deploying.  
-> Example placeholders:  
-
-- **Hero Section**  
-![Hero Screenshot](./public/screenshot-hero.png)  
-
-- **Solution Section**  
-![Solution Screenshot](./public/screenshot-solution.png)  
-
----
-
 ## 🛠️ Tech Stack  
 
 | Layer          | Technology                  | Purpose                              |
